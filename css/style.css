@@ -90,7 +90,7 @@ body {
 
   /* section skills */
 
-  .title-features {
+  .title-skills {
     font-weight: 700;
     font-size: 36px;
     line-height: 40px;
@@ -100,7 +100,7 @@ body {
     color: #2e2f42;
     text-transform: capitalize;
   }
-  .list-features {
+  .list-skills {
     list-style-type: none;
     text-decoration: none;
   }
