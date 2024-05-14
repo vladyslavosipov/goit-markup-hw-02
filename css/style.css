@@ -44,9 +44,9 @@ body {
   .link-nav:focus {
     color: #404bbf;}
 
-  .logo-tech:focus,
-  .logo-tech:hover {
-    color: #404bbf;
+    .contacts:hover,
+    .contacts:focus {
+      color: #404bbf;
     }
 
   .address-contacts {
