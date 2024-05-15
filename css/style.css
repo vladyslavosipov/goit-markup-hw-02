@@ -136,7 +136,7 @@ ul {
 
   /* team */
 
-  .team-box {
+  .team {
     background: #f4f4fd;
   }
   .team-title {
@@ -176,7 +176,7 @@ ul {
 
   /* portfolio */
 
-  .portfolio-box {
+  .portfolio {
     text-decoration: none;
   }
   .portfolio-title {
